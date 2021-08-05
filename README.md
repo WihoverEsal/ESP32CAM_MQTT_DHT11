@@ -1,4 +1,4 @@
-### El código fue modificado por [Víctor Estupiñán](https://github.com/WihoverEsal), y esta basado en el repositorio https://github.com/codigo-iot/ESP32CAM_MQTT-Basic.git
+### El código fue desarrollado por [Víctor Estupiñán](https://github.com/WihoverEsal), y esta basado en el repositorio https://github.com/codigo-iot/ESP32CAM_MQTT-Basic.git
 
 # ESP32CAM_MQTT-Basic
 Este es el programa para enviar datos de temperatura :thermometer: y humedad :droplet: capturados por el sensor DHT11 y ademas recibe mensajes a través del protocolo MQTT con el ESP32CAM. Este programa requiere la instalación de PubSubClient, DHT sensor library y la configuración correcta de la IDE de Arduino para trabajar con el ESP32CAM. Este programa require de crear un flow en NodeRed para intercambiar información.
